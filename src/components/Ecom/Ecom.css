@@ -1,0 +1,33 @@
+.EContainer {
+  margin: 30px;
+
+  border-radius: 2rem;
+}
+.Eimages {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+}
+.Ecard {
+  margin: 4px 4px 4px 4px;
+  background-color: whitesmoke;
+  border-radius: 1rem;
+}
+
+.Ecard:hover {
+  box-shadow: 0 0 8px rgba(8, 115, 230, 0.8);
+  border-radius: 2rem;
+}
+
+.css-1n3h4wo {
+  display: grid !important;
+  grid-template-columns: 1fr 8fr !important;
+  gap: 1rem !important;
+  margin-inline: auto !important;
+}
+
+.techItems {
+  gap: 2rem !important;
+}
